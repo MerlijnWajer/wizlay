@@ -1,5 +1,5 @@
 <repositories version="1.0">
-    <repo quality="experimental" status="official">
+    <repo quality="experimental" status="unofficial">
         <name>wizlay</name>
         <description lang="en">Developer Overlay</description>
         <homepage>https://github.com/MerlijnWajer/wizlay</homepage>
@@ -10,4 +10,3 @@
         <source type="git">git://github.com/MerlijnWajer/wizlay.git</source>
     </repo>
 </repositories>
-
