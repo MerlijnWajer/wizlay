@@ -1,0 +1,13 @@
+<repositories version="1.0">
+    <repo quality="experimental" status="official">
+        <name>wizlay</name>
+        <description lang="en">Developer Overlay</description>
+        <homepage>https://github.com/MerlijnWajer/wizlay</homepage>
+        <owner type="person">
+            <email>merlijn@wajer.org</email>
+            <name>Merlijn Wajer</name>
+        </owner>
+        <source type="git">git://github.com/MerlijnWajer/wizlay.git</source>
+    </repo>
+</repositories>
+
